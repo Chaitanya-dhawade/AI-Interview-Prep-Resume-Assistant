@@ -7,48 +7,48 @@ The application analyzes a user's **resume, self-description, and target job des
 
 ##  Features
 
-*  **AI-Powered Interview Preparation**
+*  # AI-Powered Interview Preparation**
 
   * Uses Google Gemini AI to analyze candidate information.
   * Generates personalized interview preparation reports.
 
-*  **Resume Analysis**
+*  # Resume Analysis**
 
   * Upload your resume in PDF format.
   * Extracts resume content automatically using `pdf-parse`.
   * Compares your skills with the target job description.
 
-*  **Skill Gap Analysis**
+*  # Skill Gap Analysis**
 
   * Identifies missing or weak skills.
   * Highlights areas that need improvement before the interview.
 
-*  **Technical Interview Questions**
+*  # Technical Interview Questions**
 
   * Generates job-specific technical questions.
   * Questions are tailored according to the candidate's resume and job requirements.
 
-*  **Behavioral Questions**
+*  # Behavioral Questions**
 
   * Generates personalized HR and behavioral interview questions.
 
-*  **Preparation Plan**
+*  # Preparation Plan**
 
   * Provides a structured roadmap to help candidates prepare for their target role.
 
-*  **AI Resume Generation**
+*  # AI Resume Generation**
 
   * Generates an ATS-friendly resume based on candidate information.
   * Converts the generated HTML resume into a professional PDF using Puppeteer.
 
-*  **Secure Authentication**
+*  # Secure Authentication**
 
   * JWT-based authentication.
   * Password hashing using bcrypt.
   * Protected API routes.
   * Token blacklisting during logout.
 
-*  **Modern React Frontend**
+*  # Modern React Frontend**
 
   * React Router for navigation.
   * Context API for global state management.
